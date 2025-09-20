@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktagspaces=self.webpackChunktagspaces||[]).push([[4854],{34854:(e,n,t)=>{t.r(n),t.d(n,{amplify_container:()=>l});var s=t(81654),l=function(){function e(e){(0,s.r)(this,e)}return e.prototype.render=function(){return(0,s.h)(s.H,null,(0,s.h)("slot",null))},e}();l.style="amplify-container{display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center;height:100vh}"}}]);
+//# sourceMappingURL=4854.bundle.js.map
